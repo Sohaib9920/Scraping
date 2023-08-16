@@ -2,7 +2,12 @@
 
 This project involves scraping **[espncricinfo](https://www.espncricinfo.com/)** to collect the latest cricket feeds. These feeds are dynamically loaded onto the page using AJAX (fetch) requests. The scraped feed data is then transformed into HTML format.
 
-## Setup
+# Demo
+
+https://github.com/Sohaib9920/Big_Data/assets/134132129/e4dc9c83-67c3-4f82-b183-9ac26b311a7f
+
+
+# Setup
 
 1. Visit the homepage of ESPNcricinfo by navigating to **[espncricinfo](https://www.espncricinfo.com/)**.
 2. Open the developer options in your browser and go to the "Network" tab.
