@@ -1,4 +1,4 @@
-# Project Description
+# Scraping dynamic loaded cricket feeds
 
 This project involves scraping **[espncricinfo](https://www.espncricinfo.com/)** to collect the latest cricket feeds. These feeds are dynamically loaded onto the page using AJAX (fetch) requests. The scraped feed data is then transformed into HTML format.
 
